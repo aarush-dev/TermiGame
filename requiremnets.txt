@@ -1,0 +1,4 @@
+pynput==1.6.8
+python-xlib==0.31
+six==1.16.0
+windows-curses==2.3.0
